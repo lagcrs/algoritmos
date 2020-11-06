@@ -1,0 +1,1 @@
+print('Aprendendo Algoritmo\nCódigo de Larissa Silva\n\nFeito na linguagem Python 3.9')
