@@ -1,0 +1,2 @@
+#coding: utf-8 
+print('É PRECISO FAZER TODOS OS ALGORITMOS PARA APRENDER')
